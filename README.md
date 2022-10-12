@@ -28,8 +28,7 @@ When a new ad appears, the bot sends me a full description with a link and a pri
 
 
 ## Screenshots
-## Photo
-![Alt Text](https://github.com/Rock-Lex/telegramBot/tree/master/media/1.jpg)
+!(https://github.com/Rock-Lex/telegramBot/tree/master/media/1.jpg)
 ---
 ![Alt Text](https://github.com/Rock-Lex/telegramBot/tree/master/media/2.jpg)
 ---
