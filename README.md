@@ -26,7 +26,6 @@ When a new ad appears, the bot sends me a full description with a link and a pri
 ---
 ---
 
-
 ## Screenshots
 ![Screen1](https://github.com/Rock-Lex/telegramBot/blob/master/media/1.png)
 ---
