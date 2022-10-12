@@ -28,12 +28,12 @@ When a new ad appears, the bot sends me a full description with a link and a pri
 
 
 ## Screenshots
-![Screen1](https://github.com/Rock-Lex/telegramBot/tree/master/media/1.png)
+![Screen1](https://github.com/Rock-Lex/telegramBot/blob/master/media/1.png)
 ---
-![Screen2](https://github.com/Rock-Lex/telegramBot/tree/master/media/2.png)
+![Screen2](https://github.com/Rock-Lex/telegramBot/blob/master/media/2.png)
 ---
-![Screen3](https://github.com/Rock-Lex/telegramBot/tree/master/media/3.png)
+![Screen3](https://github.com/Rock-Lex/telegramBot/blob/master/media/3.png)
 ---
-![Screen4](https://github.com/Rock-Lex/telegramBot/tree/master/media/4.png)
+![Screen4](https://github.com/Rock-Lex/telegramBot/blob/master/media/4.png)
 ---
 ---
